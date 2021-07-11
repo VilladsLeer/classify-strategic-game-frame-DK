@@ -1,5 +1,5 @@
 # Strategic-game-frames in the danish political media
-Here is a multilabel classifier based on danish BERT finetuned on a corpus of news articles to detect strategic-game-frames in danish. I trained it for my master thesis in political science, feel free to use it for personal or academic projects.
+Here is a multilabel classifier based on danish huggingface model of BERT finetuned on a corpus of news articles to detect strategic-game-frames in danish. I trained it for my master thesis in political science, feel free to use it for personal or academic projects.
 
 
 Strategic-game-frame is defined and conceptualized based on the operationalization presented in: 
@@ -14,3 +14,5 @@ Danish BERT: https://huggingface.co/DJSammy/bert-base-danish-uncased_BotXO,ai
 
 
 Notebook with training code coming soon.
+
+Model download link: https://drive.google.com/file/d/1o3gvWVgHN0IMCsNJTE1yUoVxraOUKiTL/view?usp=sharing
